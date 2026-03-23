@@ -1,3 +1,5 @@
 * feature-mensaje-bienvenida
 main
-67dafc 
+67dafc2 (HEAD -> feature-mensaje-bienvenida) Añade mensaje de bienvenida en rama feature
+95c25dd (main) Version inicial de la aplicacion
+
