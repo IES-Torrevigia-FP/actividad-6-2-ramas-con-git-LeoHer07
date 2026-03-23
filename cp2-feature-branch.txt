@@ -3,3 +3,7 @@ main
 67dafc2 (HEAD -> feature-mensaje-bienvenida) Añade mensaje de bienvenida en rama feature
 95c25dd (main) Version inicial de la aplicacion
 
+En la rama feature-mensaje-bienvenida he añadido una nueva funcionalidad que muestra un mensaje de bienvenida en la aplicación, partiendo del código de la rama main.
+En esta rama he editado el archivo correspondiente para incluir el texto de bienvenida y he creado uno o varios commits aislando este cambio del resto del proyecto.
+
+
