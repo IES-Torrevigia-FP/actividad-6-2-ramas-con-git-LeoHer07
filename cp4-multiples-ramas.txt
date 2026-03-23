@@ -1,0 +1,5 @@
+* feature-licencia
+  feature-mensaje-bienvenida
+  main
+d4bd96d (HEAD -> feature-licencia) Añade archivo de licencia en rama feature-licencia
+95c25dd (main) Version inicial de la aplicacion
