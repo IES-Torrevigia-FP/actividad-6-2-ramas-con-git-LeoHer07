@@ -3,3 +3,7 @@
   main
 d4bd96d (HEAD -> feature-licencia) Añade archivo de licencia en rama feature-licencia
 95c25dd (main) Version inicial de la aplicacion
+
+La salida de git branch.
+La salida de git log --oneline estando en feature-licencia.
+Indica cuántas ramas tienes y para qué sirve cada una (main, feature-mensaje-bienvenida, feature-licencia).
